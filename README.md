@@ -1,4 +1,4 @@
-### Hi there 👋
+### Carson Deas - Computer Science @ Northeastern University
 
 <!--
 **carsondeas/carsondeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
